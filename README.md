@@ -37,7 +37,7 @@ sudo ./stats_1.sh
 
 
 
-## Approach 2: `stats_2.sh` - Modular Script with Functions
+##  `stats_2.sh` - Modular Script with Functions
 
 ### Description
 A modular version that uses functions for each statistic. This improves code reusability and makes it easier to extend or modify individual metrics.
